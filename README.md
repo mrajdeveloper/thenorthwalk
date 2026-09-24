@@ -81,9 +81,9 @@ The redevelopment focused on improving navigation, content presentation, visual 
 
 ![Stores and Brands](assets/stores.png)
 
-### Website Sections
+### Blogs
 
-![Website Sections](assets/sections.png)
+![Website Sections](assets/blogs.png)
 
 ### Mobile Experience
 
